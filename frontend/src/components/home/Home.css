@@ -1,0 +1,12 @@
+
+/*image home*/
+
+
+  .landing {
+    position: relative;
+    background: url('./img/commerce.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+  }
+  
